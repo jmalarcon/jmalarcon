@@ -1,16 +1,18 @@
-### Hi there 👋
+### Howdy! 👋
 
-<!--
-**jmalarcon/jmalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I'm Jose Alarcón, from rainy Galicia, in the northwest of Spain (Europe). I'm an engineer, entrepeneur, writer and speaker.
 
-Here are some ideas to get you started:
+💻 My code is mainly focused in 🌐 Web develoment: Front-End with JavaScript, and backend with C# and the .NET Framework, although I do a lot of this and that with other langs, frameworks and tools. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything related to online training in Spain, which is what I do for a living. 
+
+📫 You can reach me through:
+
+- [My technical blog](https://www.jasoft.org/Blog/)
+- [My company tech blog](https://www.campusmvp.es/recursos/)
+- [My personal non-tech blog](https://jmalarcon.es/)
+- [Twitter](https://twitter.com/jm_alarcon)
+- [Instagram](https://www.instagram.com/jalarcon/)
+- [Contact me securely thru Keybase](https://keybase.io/jmalarcon)
+
+These are my highlighted Open Source projects here:
