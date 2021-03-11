@@ -15,4 +15,6 @@
 - [Instagram](https://www.instagram.com/jalarcon/)
 - [Contact me securely thru Keybase](https://keybase.io/jmalarcon)
 
-These are my highlighted Open Source projects here:
+![Mis estadísticas básicas en GitHub](https://github-readme-stats.vercel.app/api?username=jmalarcon&show_icons=true&theme=vision-friendly-light&count_private=true)
+
+These are my highlighted Open Source projects at GitHub:
